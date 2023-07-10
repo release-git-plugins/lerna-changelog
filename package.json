@@ -1,5 +1,5 @@
 {
-  "name": "@release-git-plugin/lerna-changelog",
+  "name": "@release-git-plugins/lerna-changelog",
   "version": "5.0.0",
   "description": "release-git plugin for lerna-changelog ",
   "keywords": [
