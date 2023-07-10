@@ -37,7 +37,7 @@
     "mdast-util-from-markdown": "^1.2.0",
     "tmp": "^0.2.1",
     "validate-peer-dependencies": "^2.0.0",
-    "which": "^2.0.2"
+    "which": "^3.0.1"
   },
   "devDependencies": {
     "@jest/globals": "^28.1.2",
